@@ -13,7 +13,9 @@
   <summary>☎️ contact me</summary>
 <div>
   <samp>
+  
     <h2 align="center">😎 you can reach me by:</h2>
+    
   <p align="center">
       
       <a href="https://mailto:niloofarsalem@gmail.com" target="blank"><img align="center"
@@ -23,8 +25,7 @@
       <a href="https://wa.me/+989385118659" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="niloofar" height="30"/></a>
-
-      <br>
+         
     </p>
   </samp>
 </div>
