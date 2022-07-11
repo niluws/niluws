@@ -12,11 +12,11 @@
 
 <br>
 
-- :technologist: I love using Software as a solution for every `Problem`
+- :technologist: I love finding a solution for every `Problem` 
 
 - :student: I’m currently learning JavaScript and Linux 
 
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is<a href="niloofarsalemabadi.pythonanywhere.com"> MY ONLINE RESUME</a> & <a href="https://up.20script.ir/do.php?filename=2398-niloofar-s-Resume-13-.pdf"> PDF RESUME</a>.
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is<a href="http://niloofarsalemabadi.pythonanywhere.com"> MY ONLINE RESUME</a> & <a href="https://up.20script.ir/do.php?filename=2398-niloofar-s-Resume-13-.pdf"> PDF RESUME</a>.
 
 - :nerd_face: Always `learning new things`
 <br>
