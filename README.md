@@ -1,9 +1,24 @@
 <h1 align="center">Hi 👋, I'm niloofar salemabadi</h1>
-<h3 align="center">Computer Engineering Student :books:.</h3>
+
+  <h3 align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a></h3>
+</p>
+</div>
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <br>
-- 🌱 I’m currently learning JavaScript and Linux 
 
+- :technologist: I love using Software as a solution for every `Problem`
+
+- :student: I’m currently learning JavaScript and Linux 
+
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is<a href="niloofarsalemabadi.pythonanywhere.com"> MY ONLINE RESUME</a> & <a href="https://up.20script.ir/do.php?filename=2398-niloofar-s-Resume-13-.pdf"> PDF RESUME</a>.
+
+- :nerd_face: Always `learning new things`
 <br>
 
 <h3 align="left">Connect with me:</h3>
